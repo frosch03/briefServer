@@ -6,13 +6,16 @@ Installation
 ----------
 
 Make sure you're using `ruby 1.9.3`,
+
     rvm use ruby-1.9.3-p327
     
 then install dependencies
+
     npm install formidable
     npm install gammalatex
 
 and finally start the server
+
     node app.js
     
 Best used with
